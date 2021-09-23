@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacionAvanzadaUned.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacionAvanzadaUned.Modelo", "ProgramacionAvanzadaUned.Modelo\ProgramacionAvanzadaUned.Modelo.csproj", "{9BA4D427-BD62-4B55-9C0A-E61193C271A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacionAvanzadaUned.View", "ProgramacionAvanzadaUned.View\ProgramacionAvanzadaUned.View.csproj", "{BE29775C-5183-470A-A913-2A6A59B47F86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacionAvanzadaUned1", "ProgramacionAvanzadaUned1\ProgramacionAvanzadaUned1.csproj", "{B9FA9EBC-043F-4900-99C5-528ECE46C628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{9BA4D427-BD62-4B55-9C0A-E61193C271A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA4D427-BD62-4B55-9C0A-E61193C271A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA4D427-BD62-4B55-9C0A-E61193C271A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BE29775C-5183-470A-A913-2A6A59B47F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE29775C-5183-470A-A913-2A6A59B47F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE29775C-5183-470A-A913-2A6A59B47F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE29775C-5183-470A-A913-2A6A59B47F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FA9EBC-043F-4900-99C5-528ECE46C628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FA9EBC-043F-4900-99C5-528ECE46C628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FA9EBC-043F-4900-99C5-528ECE46C628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FA9EBC-043F-4900-99C5-528ECE46C628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
